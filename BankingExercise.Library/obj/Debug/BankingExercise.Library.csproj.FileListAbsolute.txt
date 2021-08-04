@@ -1,0 +1,6 @@
+C:\Users\indy1\source\repos\BankingExercise\BankingExercise.Library\bin\Debug\BankingExercise.Library.dll
+C:\Users\indy1\source\repos\BankingExercise\BankingExercise.Library\bin\Debug\BankingExercise.Library.pdb
+C:\Users\indy1\source\repos\BankingExercise\BankingExercise.Library\obj\Debug\BankingExercise.Library.csproj.AssemblyReference.cache
+C:\Users\indy1\source\repos\BankingExercise\BankingExercise.Library\obj\Debug\BankingExercise.Library.csproj.CoreCompileInputs.cache
+C:\Users\indy1\source\repos\BankingExercise\BankingExercise.Library\obj\Debug\BankingExercise.Library.dll
+C:\Users\indy1\source\repos\BankingExercise\BankingExercise.Library\obj\Debug\BankingExercise.Library.pdb
