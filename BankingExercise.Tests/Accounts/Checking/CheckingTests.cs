@@ -11,6 +11,7 @@ namespace BankingExercise.Library.Accounts.Checking.Tests
     [TestClass()]
     public class CheckingTests
     {
+        // TODO: try/catch block and effective exception handling for deposit/withdrawal amount edge cases and build out sad path testing approach.
         [TestMethod()]
         public void DepositTest()
         {
